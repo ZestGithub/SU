@@ -1,0 +1,3 @@
+name: Minigame
+version: @version@
+main: com.zest.minigame.Minigame

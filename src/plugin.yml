@@ -1,0 +1,8 @@
+name: minigame
+version: 1.2.1
+author: zest
+main: com.zest.Stories.Stories
+commands:
+    sm:
+            description: menuzz
+
